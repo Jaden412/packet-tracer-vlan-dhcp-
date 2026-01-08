@@ -30,7 +30,7 @@ via a router-on-a-stick configuration.
 - Successful inter-VLAN pings
 
 ## Files
-- `network.pkt` – Packet Tracer topology
+- `Small_Office_Network.pkt` – Packet Tracer topology
 - `router-config.txt` – Router configuration
 - `switch-config.txt` – Switch configuration
 - `topology.png` – Network diagram
