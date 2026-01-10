@@ -8,7 +8,7 @@ via a router-on-a-stick configuration.
 ## Network Features
 - VLAN 10 and VLAN 20
 - Access and trunk ports
-- Router-on-a-stick (G0/0/0 subinterfaces)
+- Router-on-a-stick 
 - DHCP configured on the router
 - End-to-end connectivity verified with ping
 
@@ -20,7 +20,7 @@ via a router-on-a-stick configuration.
 
 ## Devices Used
 - Cisco 2960 Switch
-- Cisco Router (G0/0/0)
+- Cisco Router 
 - Multiple PCs
 
 ## Verification
